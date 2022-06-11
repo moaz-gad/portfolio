@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dfaa1006.css",
-    "main.js": "/portfolio/static/js/main.19ca7b4a.js",
+    "main.js": "/portfolio/static/js/main.5e907bc0.js",
     "static/media/mansoug-website.png": "/portfolio/static/media/mansoug-website.c2fc3a51b393977119aa.png",
+    "static/media/maven.png": "/portfolio/static/media/maven.c1addd76f6342ae50f75.png",
     "static/media/me.png": "/portfolio/static/media/me.e5d80265b3ad5e3ac63e.png",
     "static/media/bootstrap-project.png": "/portfolio/static/media/bootstrap-project.c762c818a6ead17a432a.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.788c7a92e21eb965d3bc.png",
     "static/media/memory-game.png": "/portfolio/static/media/memory-game.42298abb86a2086d5ba0.png",
-    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.fc3fdb73c20a87c6cc87.pdf",
     "static/media/me-about.jpg": "/portfolio/static/media/me-about.089bd9ebf32084304413.jpg",
-    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.5f6fa2ec186f21c7bf3b.pdf",
     "index.html": "/portfolio/index.html",
     "main.dfaa1006.css.map": "/portfolio/static/css/main.dfaa1006.css.map",
-    "main.19ca7b4a.js.map": "/portfolio/static/js/main.19ca7b4a.js.map"
+    "main.5e907bc0.js.map": "/portfolio/static/js/main.5e907bc0.js.map"
   },
   "entrypoints": [
     "static/css/main.dfaa1006.css",
-    "static/js/main.19ca7b4a.js"
+    "static/js/main.5e907bc0.js"
   ]
 }
