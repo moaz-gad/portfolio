@@ -36,7 +36,7 @@ header{
 /***********ME*/
 
 .me{
-    background:linear-gradient(var(--color-primary),transparent) ;
+   background: linear-gradient(#f2eff9,transparent); ;
     width:22rem;
     height: 30rem;
     position: absolute;
@@ -44,9 +44,13 @@ header{
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding-top:1rem;
-
+    padding: 1.5rem;
+  
+    padding-right: 0rem;
+    padding-left: 0rem;
 }
+
+
 /***********SCROLL DOWN*/
 .scroll__down{
     position: absolute;
