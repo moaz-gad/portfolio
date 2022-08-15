@@ -9,6 +9,7 @@ import IMG6 from "../../assets/souqgomaa.png"
 import IMG7 from "../../assets/maady.png"
 import IMG8 from "../../assets/experts.png"
 import IMG9 from "../../assets/customCatPage.png"
+import IMG10 from "../../assets/educational website.png"
 
 const data = [
   {
@@ -73,6 +74,13 @@ const data = [
     title: "Custom category page Wordpress| woocommerce |CSS",
     github: "#",
     demo: "https://w.souqelgomaa.com/product-category/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9/",
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: "Education website for courses WordPress",
+    github: "#",
+    demo: "https://expks.com/",
   },
 ]
 
